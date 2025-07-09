@@ -1,0 +1,35 @@
+h1 {
+    font-family: arial;
+    color: #646464;
+    text-align: center;
+  }
+  
+  body {
+    font-family: arial;
+    background-color: #fdeffe;
+  }
+  
+  img {
+    height: 300px;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  a:hover {
+    background-color: lightyellow;
+  }
+  
+  .section1:hover {
+    background-color: #e0dfff;
+  }
+  
+  .section2:hover {
+    background-color: #ffdfe9;
+  }
+  
+  .section3:hover {
+    background-color: #f5ffed;
+  }
+  
